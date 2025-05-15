@@ -1,6 +1,6 @@
 
 import './App.css'
-import Card from './componets/card'
+import Card from './componenets/card'
 
 function App() {
 
