@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Inder&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+
+.card{
+    border: solid 3px gray;
+    width: 350px;
+    padding: 14px;
+    background: rgb(244, 244, 245) ;
+    border-radius: 10px;
+}
+
+.card img{
+    width: 100%;
+}
+.card h1{
+    font-family: inter;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   color: #000;
+}
+.des{
+     font-family: inter;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+   
+}
+.name{
+       font-family: inter;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+}
